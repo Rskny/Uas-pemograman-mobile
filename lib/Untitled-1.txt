@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Menampilkan Gambar</title>
+
+        </head>
+        <body>
+            <table border="5" style="background-color: antiquewhite>"
+            <tr>
+                <td colspan="3"> <center><font face="Times New Roman" size="20" style> Daftar Mahasiswa PENS </font></center></td>
+                </tr>
+                <tr>
+                    <td> <font size=+2>NIM</font></td>
+                    <td> <font size=+2>22032001 </font></td>
+                    <td rowspan="18"><img src="aris.png"> </td>
+                </tr>
+                <td><font size
+
+
